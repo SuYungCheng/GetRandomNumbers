@@ -3,7 +3,7 @@
 
 ## 取亂數方式 Table of contents
 ### GameKit
-- [GameKit](#jump-to-GameKit)
+- [GameKit](#gamekit)
 - [Link](#11-hello-world)
 
 
