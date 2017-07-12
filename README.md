@@ -63,8 +63,8 @@
 3
 2
 1
-#jump-to-GameKit
-### [GameKit]
+
+### [GameKit](#jump-to-GameKit)
 
 ### [GameKit](https://developer.apple.com/documentation/gameplaykit/gkrandomsource)
 
