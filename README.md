@@ -63,8 +63,7 @@
 3
 2
 1
-##### the-header
-### [GameKit](#jump-to-GameKit)
+## hello
 
 ### [GameKit](https://developer.apple.com/documentation/gameplaykit/gkrandomsource)
 
