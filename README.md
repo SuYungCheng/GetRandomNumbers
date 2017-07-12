@@ -1,5 +1,5 @@
 ## 取亂數方式 
-###Table of contents
+### Table of contents
 - [GameKit](#gamekit)
 
 - [Others]
