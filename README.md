@@ -1,12 +1,10 @@
 
 **Note**: The project requires Xcode 9 Beta 1 or later, Swift 4 and iOS 11.
 
-## 取亂數方式 Table of contents
-### GameKit
+### 取亂數方式 Table of contents
 - [GameKit](#gamekit)
-- [Link](#11-hello-world)
 
-
+- [Others]
 
 
 1
@@ -63,7 +61,6 @@
 3
 2
 1
-## 1.1 Hello World
 
 ### [GameKit](https://developer.apple.com/documentation/gameplaykit/gkrandomsource)
 
