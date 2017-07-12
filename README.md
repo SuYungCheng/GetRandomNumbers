@@ -3,7 +3,7 @@
 
 ## 取亂數方式 Table of contents
 ### GameKit
-- [GameKit](#GameKit)
+- [GameKit](#jump)
 
 
 
@@ -63,8 +63,10 @@
 3
 2
 1
+[說明文字](#jump)
 
-
+[GameKit](#jump)
+### [GameKit]
 
 ### [GameKit](https://developer.apple.com/documentation/gameplaykit/gkrandomsource)
 
