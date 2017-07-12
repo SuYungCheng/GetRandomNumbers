@@ -4,7 +4,7 @@
 ## 取亂數方式 Table of contents
 ### GameKit
 - [GameKit](#jump-to-GameKit)
-- [Link to Header](#the-header)
+- [Link](#11-hello-world)
 
 
 
@@ -63,7 +63,7 @@
 3
 2
 1
-## hello
+## 1.1 Hello World
 
 ### [GameKit](https://developer.apple.com/documentation/gameplaykit/gkrandomsource)
 
